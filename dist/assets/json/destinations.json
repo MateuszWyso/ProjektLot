@@ -1,0 +1,11 @@
+{
+    "Amsterdam": {
+      "description": "Amsterdam - magiczne miasto kanałów i urokliwych zaułków. Położone w Holandii, Amsterdam jest miejscem o niepowtarzalnym uroku i bogatej historii. Słynie z licznych zabytków, kultury, kolorowych tulipanów i liberalnego podejścia do życia. Spacerując po wąskich uliczkach Amsterdamu, można podziwiać malownicze domy z charakterystycznymi szczytami, które nadają temu miastu unikalny wygląd. Niezwykłe jest także gęste siecią kanałów, które przepływają przez miasto. Spływ łódką po kanale to niezapomniane przeżycie, pozwalające podziwiać urokliwe mostki i zabytkowe budowle.  Amsterdam słynie również z muzeów światowej klasy, takich jak Muzeum Van Gogha, w którym można zobaczyć największą kolekcję dzieł Vincenta van Gogha, czy Rijksmuseum, gdzie można podziwiać arcydzieła malarstwa holenderskiego, w tym słynne 'Straż nocna' Rembrandta."
+    },
+    "New York": {
+      "description": "Nowy Jork - miasto nieustającego tempa i niezliczonych możliwości. Siedząc na wschodnim wybrzeżu Stanów Zjednoczonych, Nowy Jork emanuje energią i różnorodnością. To miejsce, gdzie historia, kultura i nowoczesność spotykają się w fascynującym stylu.Wypełnione wieżowcami Manhattanu, Nowy Jork oferuje niezrównane widoki i ikoniczne miejsca, takie jak Central Park, Times Square i Statua Wolności. Spacerując po ulicach, można natknąć się na światowej klasy muzea, ekskluzywne sklepy, teatry Broadwayu i niezliczone restauracje serwujące dania z całego świata."
+    },
+    "Katowice": {
+      "description": "Katowice - dynamiczne miasto w sercu Śląska, będące centrum przemysłowym, kulturalnym i edukacyjnym. Znane z bogatej historii górniczej, Katowice przeobraziły się w nowoczesne miasto, które łączy tradycję z nowymi trendami. Katowice słyną z unikalnego dziedzictwa przemysłowego, które można odkryć w pięknie odrestaurowanych zabytkowych budynkach, takich jak Spodek czy NOSPR - Narodowa Orkiestra Symfoniczna Polskiego Radia. Miasto jest również gospodarzem wielu festiwali muzycznych i kulturalnych, które przyciągają artystów i miłośników sztuki z całego świata."
+    }
+  }

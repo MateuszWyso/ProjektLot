@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Podsumowanie lotu</title>
+    <style></style>
+  </head>
+  <body>
+    <h1>Podsumowanie lotu</h1>
+
+    <div class="summary-container">
+      <h2>Informacje o locie:</h2>
+      <p>Miejsce wylotu: <span id="departure-place"></span></p>
+      <p>Miejsce docelowe: <span id="destination-place"></span></p>
+      <p>Data wylotu: <span id="departure-date"></span></p>
+      <p>Liczba pasażerów: <span id="passenger-count"></span></p>
+      <div id="destination-info"></div>
+
+      <img
+        src="/assets/img/plane.jpg"
+        alt="Przekrój wnętrza samolotu"
+        usemap="#seat-map"
+      />
+      <map name="seat-map">
+        <area shape="rect" coords="100,100,200,200" href="#" alt="Miejsce 1" />
+        <area shape="rect" coords="300,100,400,200" href="#" alt="Miejsce 2" />
+      </map>
+      <div id="passenger-list"></div>
+    </div>
+
+    <div id="city-panorama"></div>
+  </body>
+</html>

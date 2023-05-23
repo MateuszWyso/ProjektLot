@@ -1,0 +1,11 @@
+{
+    "Amsterdam": {
+      "description": "Amsterdam - magiczne miasto kanałów i urokliwych zaułków. Położone w Holandii, Amsterdam jest miejscem o niepowtarzalnym uroku i bogatej historii. Słynie z licznych zabytków, kultury, kolorowych tulipanów i liberalnego podejścia do życia. Spacerując po wąskich uliczkach Amsterdamu, można podziwiać malownicze domy z charakterystycznymi szczytami, które nadają temu miastu unikalny wygląd. Niezwykłe jest także gęste siecią kanałów, które przepływają przez miasto. Spływ łódką po kanale to niezapomniane przeżycie, pozwalające podziwiać urokliwe mostki i zabytkowe budowle.  Amsterdam słynie również z muzeów światowej klasy, takich jak Muzeum Van Gogha, w którym można zobaczyć największą kolekcję dzieł Vincenta van Gogha, czy Rijksmuseum, gdzie można podziwiać arcydzieła malarstwa holenderskiego, w tym słynne 'Straż nocna' Rembrandta."
+    },
+    "NewYork": {
+      "description": "New York City is the most populous city in the United States. It is known for its iconic landmarks, including Times Square, the Statue of Liberty, and Central Park. The city is a major center for finance, culture, and entertainment."
+    },
+    "Katowice": {
+      "description": "Katowice is a city in southern Poland. It is an important industrial and cultural center. The city is known for its modern architecture, vibrant arts scene, and annual music festivals, such as the Off Festival and Tauron New Music."
+    }
+  }
